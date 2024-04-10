@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+__pycache__
+
+*.xlsx
+*.ipynb
+
+.ipynb_checkpoints/
+config/*
+!config/__init__.py
+
+data
+export
+venv

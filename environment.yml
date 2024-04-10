@@ -1,0 +1,10 @@
+name: datatools
+dependencies:
+- python>=3.4
+- pandas
+- xlrd
+- openpyxl
+- ipython-notebook
+- xlwings
+- pip:
+  - django
